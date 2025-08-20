@@ -1,4 +1,4 @@
-# 🧠 AI Agent Portfolio
+# 🧠 Anddy Lizardo - AI Agent Portfolio
 
 Welcome to my collection of AI-powered automation tools designed to streamline workflows, enhance productivity, and solve real-world business challenges. As a results-driven leader with over a decade of experience in Life Sciences and project management, I've developed these agents to bridge the gap between complex processes and simple, actionable solutions.
 
