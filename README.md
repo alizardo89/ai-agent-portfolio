@@ -432,15 +432,15 @@ I’m a strategic transformation and project leader with 10+ years of experience
 
 Over the past decade, I’ve delivered measurable business impact — including a 30% increase in operational efficiency and multi-million-dollar cost savings — by leading cross-functional teams, optimizing processes, and deploying AI-powered and digital solutions that streamline complex workflows.
 
-Core Expertise:
+**Core Expertise:**
 
-Life Sciences Operations → Deep knowledge of sterile compounding facilities, controlled environments, and cGMP compliance
+- **Life Sciences Operations → Deep knowledge of sterile compounding facilities, controlled environments, and cGMP compliance**
 
-Project & Portfolio Delivery → Certified PMP, PMI-ACP, LSSBB, DASM, CPMAI, GPM-b, CPSP, with proven success in Agile & Waterfall delivery
+- **Project & Portfolio Delivery → Certified PMP, PMI-ACP, LSSBB, DASM, CPMAI, GPM-b, CPSP, with proven success in Agile & Waterfall delivery**
 
-Process & Technology Optimization → Validation, workflow automation, and enterprise systems (Microsoft Project, Smartsheet, Kneat, ProCal, Maximo, SAP, Blue Mountain RAM)
+- **Process & Technology Optimization → Validation, workflow automation, and enterprise systems (Microsoft Project, Smartsheet, Kneat, ProCal, Maximo, SAP, Blue Mountain RAM)**
 
-Business Strategy & Growth → Skilled in client engagement, business development, and aligning projects with organizational strategy
+- **Business Strategy & Growth → Skilled in client engagement, business development, and aligning projects with organizational strategy**
 
 I excel at leading global teams, managing strategic budgets, mitigating risk, and implementing digital transformation initiatives that enable organizations to adapt, scale, and grow sustainably.
 
