@@ -474,4 +474,4 @@ Multi-agent system design
 Internal tools powered by AI logic
 Whether you need a specialized agent for your unique use case or want to integrate AI into your existing processes, let's discuss how we can streamline your operations.
 
-[📬 Contact me](alizardo89@outlook.com) or [Connect on LinkedIn]([[https://www.linkedin.com/in/anddylizardo]](https://www.linkedin.com/in/anddylizardo?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTdbCSw6bRZSJP21tga1aZw%3D%3D))
+[Email: alizardo89@outlook.com) or LinkedIn: https://www.linkedin.com/in/anddylizardo/]
