@@ -426,20 +426,6 @@ Welcome to my collection of specialized AI agents designed to streamline workflo
 
 ---
 
-## 📬 Contact Me
-
-Ready to transform your workflow with custom AI agents? I specialize in creating intelligent automation solutions that solve real business problems and boost productivity across teams.
-
-**I can help you with:**
-- **Custom AI agent development**
-- **Workflow automation solutions**
-- **Multi-agent system design**
-- **Internal tools powered by AI logic**
-
-Whether you need a specialized agent for your unique use case or want to integrate AI into your existing processes, let's discuss how we can streamline your operations.
-
-[📧 Get in touch](mailto:contact@example.com) | [💼 Connect on LinkedIn](https://www.linkedin.com/in/your-profile)
-
 ## 📋 About Me
 
 I’m a strategic transformation and project leader with 10+ years of experience driving innovation, operational excellence, and scalable growth across Life Sciences and technology-driven industries.
@@ -462,16 +448,16 @@ I excel at leading global teams, managing strategic budgets, mitigating risk, an
 
 ---
 
-### 🤝 Contact Me
+## 📬 Contact Me
 
 Ready to transform your workflow with custom AI agents? I specialize in creating intelligent automation solutions that solve real business problems and boost productivity across teams.
 
-I can help you with:
+**I can help you with:**
+- **Custom AI agent development**
+- **Workflow automation solutions**
+- **Multi-agent system design**
+- **Internal tools powered by AI logic**
 
-Custom AI agent development
-Workflow automation solutions
-Multi-agent system design
-Internal tools powered by AI logic
 Whether you need a specialized agent for your unique use case or want to integrate AI into your existing processes, let's discuss how we can streamline your operations.
 
 [Email: alizardo89@outlook.com) or LinkedIn: https://www.linkedin.com/in/anddylizardo/]
